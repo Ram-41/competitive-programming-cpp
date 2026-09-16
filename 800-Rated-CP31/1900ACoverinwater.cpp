@@ -1,7 +1,4 @@
 /*
-Problem: 1900A - Cover in Water (Codeforces Rating 800)
-Link: https://codeforces.com/problemset/problem/1900/A
-
 Filip has a row of cells, some of which are blocked, and some are empty. He wants all empty cells to have water in them. 
 He has two actions at his disposal:
 1. Place water in an empty cell.
