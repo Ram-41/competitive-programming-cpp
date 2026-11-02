@@ -1,6 +1,5 @@
 /*
 Problem: 1853A - Desorting (Codeforces Rating 800)
-Link: https://codeforces.com/problemset/problem/1853/A
 
 Call an array a of length n sorted if a1 <= a2 <= ... <= an.
 You can perform the following operation zero or more times:
