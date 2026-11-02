@@ -1,6 +1,5 @@
 /*
 Problem: 1858A - Buttons (Codeforces Rating 800)
-Link: https://codeforces.com/problemset/problem/1858/A
 
 Anna and Katie ended up in a secret laboratory.
 
