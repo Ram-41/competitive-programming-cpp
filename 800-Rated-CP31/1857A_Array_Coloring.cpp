@@ -1,6 +1,5 @@
 /*
 Problem: 1857A - Array Coloring (Codeforces Rating 800)
-Link: https://codeforces.com/problemset/problem/1857/A
 
 You are given an array consisting of n integers. Your task is to determine whether it is 
 possible to color all its elements in two colors in such a way that the sums of the elements 
